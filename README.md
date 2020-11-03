@@ -16,13 +16,13 @@ Challenges in this theme include <b>Image Processing, Control Systems, 3D Design
 The critical factor is time and the challenge is to complete the given tasks in the shortest possible time whilst incurring least penalties. The teams that perform the task best in accordance with the rules will be declared the WINNER of the competition.
 
 
-#Task 0<br>
+# Task 0<br>
 (1) Software Installation (Windows)<br>
 (2) Test Setup<br>
 (3) Learning Resources / Tutorials<br>
 (4) Solving Assignment: <b>Python</b> and <b>Lua</b><br>
 
-#Task 1<br>
+# Task 1<br>
 <b>CoppeliaSim</b> Tutorials<br>
 1A - Explore <b>OpenCV</b><br>
 1B - <b>Detect and Encode Maze</b><br>
