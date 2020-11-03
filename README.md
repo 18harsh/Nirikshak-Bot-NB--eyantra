@@ -14,3 +14,16 @@ The Theme is set in an industry manufacturing ball balancing platforms. A maze i
 Challenges in this theme include Image Processing, Control Systems, 3D Designing, Algorithm Building, Robotic Simulation, Python programming and Lua programming.
 
 The critical factor is time and the challenge is to complete the given tasks in the shortest possible time whilst incurring least penalties. The teams that perform the task best in accordance with the rules will be declared the WINNER of the competition.
+
+
+#Task 0
+(1) Software Installation (Windows)
+(2) Test Setup
+(3) Learning Resources / Tutorials
+(4) Solving Assignment: <b>Python</b> and <b>Lua</b>
+
+#Task 1
+CoppeliaSim Tutorials
+1A - Explore OpenCV
+1B - Detect and Encode Maze
+1C - Design Ball Balance Platform
