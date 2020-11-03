@@ -1,5 +1,5 @@
 # Nirikshak Bot (NB)
-Learning Modules include Image Processing, Control Systems, 3D Designing, Algorithm Building, Robotic Simulation, Python programming and Lua programming
+<b>Learning Modules include Image Processing, Control Systems, 3D Designing, Algorithm Building, Robotic Simulation, Python programming and Lua programming</b>
 
 ![](https://github.com/18harsh/Nirikshak-Bot-NB--eyantra/blob/main/theme_nb.png)
 
@@ -9,9 +9,9 @@ Quality Assurance allows industries to reduce defects in their product thereby i
 
 Robots achieve all this and more with high precision and accuracy. Their use drastically improves the speed of the entire manufacturing chain thereby increasing the profitability per product. We emulate the same scenario in eYRC 2020-21 by introducing the Theme Nirikshak (निरीक्षक) Bot (Inspector Bot) to determine the quality of a Ball Balancing Platform being manufactured.
 
-The Theme is set in an industry manufacturing ball balancing platforms. A maze is attached on top of it. A conveyor belt keeps dropping balls at regular intervals on the ball balancing platform. The goal is to make the balls traverse through the maze on defined paths within a stipulated amount of time in order to determine the quality of the platform manufactured.
+<b>The Theme is set in an industry manufacturing ball balancing platforms. A maze is attached on top of it. A conveyor belt keeps dropping balls at regular intervals on the ball balancing platform. The goal is to make the balls traverse through the maze on defined paths within a stipulated amount of time in order to determine the quality of the platform manufactured.</b>
 
-Challenges in this theme include Image Processing, Control Systems, 3D Designing, Algorithm Building, Robotic Simulation, Python programming and Lua programming.
+Challenges in this theme include <b>Image Processing, Control Systems, 3D Designing, Algorithm Building, Robotic Simulation, Python programming and Lua programming.</b>
 
 The critical factor is time and the challenge is to complete the given tasks in the shortest possible time whilst incurring least penalties. The teams that perform the task best in accordance with the rules will be declared the WINNER of the competition.
 
@@ -23,7 +23,7 @@ The critical factor is time and the challenge is to complete the given tasks in 
 (4) Solving Assignment: <b>Python</b> and <b>Lua</b><br>
 
 #Task 1<br>
-CoppeliaSim Tutorials<br>
-1A - Explore OpenCV<br>
-1B - Detect and Encode Maze<br>
-1C - Design Ball Balance Platform<br>
+<b>CoppeliaSim</b> Tutorials<br>
+1A - Explore <b>OpenCV</b><br>
+1B - <b>Detect and Encode Maze</b><br>
+1C - <b>Design Ball Balance Platform</b><br>
