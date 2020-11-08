@@ -28,6 +28,6 @@ The critical factor is time and the challenge is to complete the given tasks in 
 1B - <b>Detect and Encode Maze</b><br>
 1C - <b>Design Ball Balance Platform</b><br>
 
-# <a href="https://portal.e-yantra.org/storage/ryMPCVnKgx_nb/task_2.html">Task 2</a> (5th Nov, 2020 to 26th Nov, 2020)<br>
+# <a href="https://portal.e-yantra.org/storage/ryMPCVnKgx_nb/task_2.html">Task 2</a> (5th Nov, 2020 to 23th Nov, 2020)<br>
 2A - <b>Develop Ball Tracking Algorithm</b><br>
 2B - <b>Generate Maze in CoppeliaSim with Remote API<b>
