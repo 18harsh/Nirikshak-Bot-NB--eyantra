@@ -31,3 +31,7 @@ The critical factor is time and the challenge is to complete the given tasks in 
 # <a href="https://github.com/18harsh/Nirikshak-Bot-NB--eyantra/tree/main/task2">Task 2</a> (5th Nov, 2020 to 23th Nov, 2020)<br>
 2A - <b>Develop Ball Tracking Algorithm</b><br>
 2B - <b>Generate Maze in CoppeliaSim with Remote API<b>
+  
+  
+# <a href="https://github.com/18harsh/Nirikshak-Bot-NB--eyantra/tree/main/task3">Task 2</a> (23th Nov, 2020 to 23th dec, 2020)<br>
+
