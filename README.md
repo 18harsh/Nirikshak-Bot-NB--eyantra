@@ -34,5 +34,5 @@ The critical factor is time and the challenge is to complete the given tasks in 
   
   
 # <a href="https://github.com/18harsh/Nirikshak-Bot-NB--eyantra/tree/main/task3">Task 3</a> (27th Nov, 2020 to 23th dec, 2020)<br>
-Understanding Proportional Integral Derivative (PID) Controller
+Understanding Proportional Integral Derivative (PID) Controller<br>
 Balance ball on platform
